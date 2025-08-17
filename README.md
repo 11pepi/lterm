@@ -4,6 +4,9 @@
 lterm is a fantasy *computer*, yes, **computer**, this is a fantasy computer
 its very not real and also has features
 
+> [!NOTE]
+> If you implement the package manager, good job. I will add you to this README and your great controbution is appreaciated. Thank you. /s
+
 ## features
 - [x] working terminal
 - [x] apps
